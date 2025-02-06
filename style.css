@@ -1,0 +1,50 @@
+#bdy{
+   position:relative;
+   left: 500px;
+   top: 100px;
+   background-color: rgba(0, 0, 0, 0.322);
+   width: 350px;
+   height: 500px;
+ 
+
+}
+#div1{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+#div2{
+    position: relative;
+    left: 50px;
+    top: 150px;
+}
+#div3{
+    position: relative;
+    left: 50px;
+    top: 200px;
+}
+#inp{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 230px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: gray;
+    border-color: none;
+    color: white;
+}
+button{
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 50px;
+    height: 30px;
+}
+#cancel{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    background-color: red;
+}
